@@ -3,6 +3,8 @@
 
 A Chat application using PHP Laravel, Pusher and Laravel Echo, such as:
 
+## Installion Guide
+
 - composer install
 - copy .env.example .env
 - php artisan migrate
